@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryone107
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Twitter API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
